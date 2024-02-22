@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Monqiue Oberholzer.<br><br>👩🏻‍💻 I'm currently studying BSc. Data Science at IUBH.<br><br>👀 I’m interested in diving deeper into Machine Learning and data visualization.  I'm currently upskilling by learning about Docker and Kubernetes.<br><br>💡 I am sharing my mix of self-taught and university journey on Medium.<br><br>📢 You can reach me on LinkedIn.
+👋 Hi, I’m Monqiue Oberholzer.<br><br>👩🏻‍💻 I'm currently studying BSc. Data Science at IUBH.<br><br>👀
 
 
 ## 🌐 Socials:
