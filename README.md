@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Monqiue Oberholzer.<br><br>👩🏻‍💻 I'm currently studying BSc. Software Development at IUBH.<br><br>👀
+👋 Hi, I’m Monqiue Oberholzer.<br><br>👩🏻‍💻 Currently studying BSc. Software Development <br><br>👀
 
 
 ## 🌐 Socials:
